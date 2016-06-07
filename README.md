@@ -2,15 +2,15 @@
 
 ### Npm install :
 	
-- Into back directory :
+Into back directory :
 
 	npm install
 	
-- Into front directory :
+Into front directory :
 
 	npm install
 	
-- Into back/test directory :
+Into back/test directory :
 
 	npm install
 
